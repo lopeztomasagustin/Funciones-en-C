@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567088297 source:d:\lopez\funciones-en-c\ejemplos de funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
