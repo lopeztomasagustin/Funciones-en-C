@@ -3,3 +3,4 @@ Comandos de Git
 2º para clonarlo uso el git clone
 3º agregar los archivos nuevos o modificados git add .
 4º hacer commit git commit -m "mensaje del commit"
+5º subo todos los commit a github
