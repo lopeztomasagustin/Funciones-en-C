@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567176559 source:d:\lopez\funciones-en-c\funciones\main.c
+	<stdlib.h>
+	"aritmeticas.h"
+
+1567175379 d:\lopez\funciones-en-c\funciones\aritmeticas.h
+	<stdio.h>
+
+1567170486 source:d:\lopez\funciones-en-c\funciones\aritmeticas.c
+	"aritmeticas.h"
+
