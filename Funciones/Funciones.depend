@@ -9,3 +9,17 @@
 1567170486 source:d:\lopez\funciones-en-c\funciones\aritmeticas.c
 	"aritmeticas.h"
 
+1567261355 source:c:\users\perzeus\desktop\funciones-en-c\funciones\main.c
+	<stdlib.h>
+	"aritmeticas.h"
+	"funcion.h"
+
+1567260342 c:\users\perzeus\desktop\funciones-en-c\funciones\aritmeticas.h
+	<stdio.h>
+
+1567261228 c:\users\perzeus\desktop\funciones-en-c\funciones\funcion.h
+	<stdio.h>
+
+1567261303 source:c:\users\perzeus\desktop\funciones-en-c\funciones\funcion sumar.c
+	"funcion.h"
+
