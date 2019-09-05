@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567694854 source:d:\lopez\ejemplo de array\funciones.c
+	"Funciones.h"
+
+1567694854 source:d:\lopez\ejemplo de array\main.c
+	<stdlib.h>
+	"Funciones.h"
+
+1567694854 d:\lopez\ejemplo de array\funciones.h
+	<stdio.h>
+
