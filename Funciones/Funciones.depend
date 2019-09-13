@@ -1,25 +1,32 @@
 # depslib dependency file v1.0
-1567176559 source:d:\lopez\funciones-en-c\funciones\main.c
+1567465451 source:c:\users\alumno\desktop\funciones\main.c
+	<stdio.h>
 	<stdlib.h>
-	"aritmeticas.h"
+	"Operaciones.h"
 
-1567175379 d:\lopez\funciones-en-c\funciones\aritmeticas.h
+1567465404 source:c:\users\alumno\desktop\funciones\operaciones.c
+	"Operaciones.h"
+
+1567465654 c:\users\alumno\desktop\funciones\operaciones.h
+
+1567470160 source:c:\users\alumno\desktop\funciones\input.c
+	"Input.h"
+
+1567470160 c:\users\alumno\desktop\funciones\input.h
+
+1567473158 source:x:\### lab1\funciones\input.c
+	"Input.h"
+
+1567470160 x:\### lab1\funciones\input.h
+
+1567473158 source:x:\### lab1\funciones\main.c
 	<stdio.h>
-
-1567170486 source:d:\lopez\funciones-en-c\funciones\aritmeticas.c
-	"aritmeticas.h"
-
-1567261355 source:c:\users\perzeus\desktop\funciones-en-c\funciones\main.c
 	<stdlib.h>
-	"aritmeticas.h"
-	"funcion.h"
+	"Operaciones.h"
+	"Input.h"
 
-1567260342 c:\users\perzeus\desktop\funciones-en-c\funciones\aritmeticas.h
-	<stdio.h>
+1567465654 x:\### lab1\funciones\operaciones.h
 
-1567261228 c:\users\perzeus\desktop\funciones-en-c\funciones\funcion.h
-	<stdio.h>
-
-1567261303 source:c:\users\perzeus\desktop\funciones-en-c\funciones\funcion sumar.c
-	"funcion.h"
+1567465404 source:x:\### lab1\funciones\operaciones.c
+	"Operaciones.h"
 
